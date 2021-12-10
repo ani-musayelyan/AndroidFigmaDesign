@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">AndroidFigma</string>
+    <string name="thousand">Thousand of people are usign silent moon for smalls meditation</string>
+    <string name="account">Already have an account?</string>
+    <string name="sign_up">sign up</string>
+    <string name="silent">SILENT</string>
+    <string name="moon">MOON</string>
+    <string name="we">We are what we are</string>
+    <string name="welcome">Welcome to</string>
+    <string name="explore">Explore the app, Find some peace of mind to prepare for meditation.</string>
+    <string name="get_started">get started</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="welcome_back">Welcome back!</string>
+    <string name="continue_with_facebook">Continue with Facebook</string>
+    <string name="continue_with_google">CONTINUE WITH GOOGLE</string>
+    <string name="email">OR LOG IN WITH EMAIL</string>
+    <string name="log_in">Log In</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="create_your_account">Create your account!</string>
+    <string name="name">Name</string>
+    <string name="create_account">Create account</string>
+    <string name="fields">All fields must be filled!</string>
+</resources>
